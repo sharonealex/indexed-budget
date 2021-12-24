@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sharonealex/indexed-budget/issues"
   },
-  "homepage": "https://github.com/sharonealex/indexed-budget#readme"
+  "homepage": "https://github.com/sharonealex/indexed-budget#readme",
+  "dependencies": {
+    "mongoose": "^6.1.3"
+  }
 }
